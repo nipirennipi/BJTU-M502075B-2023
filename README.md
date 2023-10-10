@@ -23,7 +23,7 @@ We recommend developing this repository on Linux.
 1. Clone this repository
 
     ```shell
-    git clone
+    git clone https://github.com/nipirennipi/BJTU-M502075B-2023
     cd BJTU-M502075B-2023
     ```
 
