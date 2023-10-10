@@ -21,35 +21,26 @@ Note: only the title information is used in this demo.
 We recommend developing this repository on Linux.
 
 1. Clone this repository
-
     ```shell
     git clone https://github.com/nipirennipi/BJTU-M502075B-2023
     cd BJTU-M502075B-2023
     ```
-
 2. Download dataset
-
-  - Link: https://www.aliyundrive.com/s/Nk2KZDo2ytm
-
-  - Move them to the `data` folder
-
-      ```
-      └──	data
-          ├── train_behaviors.txt
-          ├── test_behaviors.txt
-          ├── news.txt
-          └── ...
-      ```
-
+      - Link: https://www.aliyundrive.com/s/Nk2KZDo2ytm
+      - Move them to the `data` folder
+          ```
+          └── data
+              ├── train_behaviors.txt
+              ├── test_behaviors.txt
+              ├── news.txt
+              └── ...
+          ```
 4. Download pre-trained word vectors
-
     ```shell
     cd data
     bash download.sh
     ```
-
 5. Training and prediction
-
     ```shell
     cd ..
     bash run.sh
