@@ -8,11 +8,11 @@ Demo code for news click-through rate prediction competition.
 
 The framework of base model for news recommendation, It consists of several parts: (1) a news encoder that uses rich textual content to learn news embeddings, and all news encoder parameters are shared; (2) a cheap sequential behavior moduel learns user embeddings from news click history; (3) a prediction  moduel calculates predictive scores using the dot product of user embeddings with candidate news embeddings.
 
-![](./figs/base_model.svg)
+<img src="./fig/base_model.svg" style="zoom:50%;" />
 
 #### 2. News Encoder
 
-![](./fig/news_encoder.svg)
+<img src="./fig/news_encoder.svg" style="zoom:50%;" />
 
 Note: only the title information is used in this demo.
 
