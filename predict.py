@@ -66,7 +66,7 @@ def main():
 
     green_print('### 2. Load testset')
     test_dataset = MindDataset(
-        file_path=os.path.join(args.data_path, 'test_behaviors.txt'),
+        file_path=os.path.join(args.data_path, 'test_behaviors_1.txt'),
         news_dict=news_dict,
         vocab=vocab,
         title_size=args.title_size,
