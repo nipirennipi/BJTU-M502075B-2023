@@ -18,7 +18,14 @@ Note: only the title information is used in this demo.
 
 ## Requirements
 
-The dependency packages can be found in requirements.txt file. One can use pip install -r requirements.txt to configure the environment. We use python 3.8 to run the experiments.
+- torch==1.12.1
+- tqdm==4.65.0
+- pandas==2.0.3
+- numpy==1.23.5
+- scikit-learn==1.3.0
+- nltk==3.8.1
+
+The code works fine on Python 3.8
 
 ## Usage
 
