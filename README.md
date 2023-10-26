@@ -16,6 +16,10 @@ The framework of base model for news recommendation, it consists of several part
 
 Note: only the title information is used in this demo.
 
+## Requirements
+
+The dependency packages can be found in requirements.txt file. One can use pip install -r requirements.txt to configure the environment. We use python 3.8 to run the experiments.
+
 ## Usage
 
 We recommend developing this repository on Linux.
