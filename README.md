@@ -18,12 +18,14 @@ Note: only the title information is used in this demo.
 
 ## Requirements
 
-- torch==1.12.1
-- tqdm==4.65.0
-- pandas==2.0.3
-- numpy==1.23.5
-- scikit-learn==1.3.0
-- nltk==3.8.1
+```
+torch==1.12.1
+tqdm==4.65.0
+pandas==2.0.3
+numpy==1.23.5
+scikit-learn==1.3.0
+nltk==3.8.1
+```
 
 The code works fine on Python 3.8
 
