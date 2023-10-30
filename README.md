@@ -12,7 +12,7 @@ The framework of base model for news recommendation, it consists of several part
 
 #### 2. News Encoder
 
-<img src="./fig/news_encoder.vg" width = "700" />
+<img src="./fig/news_encoder.svg" width = "700" />
 
 Note: only the title information is used in this demo.
 
