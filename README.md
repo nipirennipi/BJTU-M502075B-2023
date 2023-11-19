@@ -40,11 +40,13 @@ We recommend developing this repository on Linux.
     ```
 2. Download dataset
       - Link1: https://www.aliyundrive.com/s/y9jegdc2nVG
+      - Link2: https://www.aliyundrive.com/s/4ixMCMzc5k6
       - Move them to the `data` folder
           ```
           └── data
               ├── train_behaviors.txt
               ├── test_behaviors_1.txt
+              ├── test_behaviors_2.txt
               ├── news.txt
               └── ...
           ```
